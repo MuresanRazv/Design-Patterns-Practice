@@ -1,0 +1,1 @@
+C:\Users\seNNNz0rel\Documents\Design-Patterns-Practice\Creational Design Patterns\Singleton\x64\Debug\Singleton.exe
