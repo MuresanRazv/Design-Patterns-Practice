@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Singleton"
   ],
-  "SelectedNode": "\\Singleton",
+  "SelectedNode": "\\Singleton\\Singleton.h",
   "PreviewInSolutionExplorer": false
 }
