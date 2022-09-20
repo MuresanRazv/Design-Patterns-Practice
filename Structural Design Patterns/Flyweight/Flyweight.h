@@ -14,10 +14,11 @@ public:
 };
 
 class ConcreteFlyweight : public Flyweight {
+private:
+	string intrinsicState;
 public:
 	ConcreteFlyweight();
 
-	string intrinsicState;
 	virtual void Operation(string extrinsicState);
 
 	virtual string getState();
